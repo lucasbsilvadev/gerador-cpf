@@ -5,8 +5,8 @@ gerador de cpf feito a mão, pra exercitar lógica e algoritmos em python.
 ## por que gastar tempo com isso?
 
 estudar já é parte da rotina, então, porque não usar da aplicação prática pra estudar né...
-é interessante manipular variáveis, listas e vários valores lógicos sem as libs que automatizam tudo
-mesmo assim, o python continua simples e muito prático
+é interessante manipular variáveis, listas e vários valores lógicos sem as libs que automatizam tudo.
+mesmo assim, o python continua simples e muito prático.
 
 ## funcionamento
 
@@ -43,9 +43,9 @@ text
 
 ## conhecimentos que obtive
 
-- que a geração de identificadores pode ser mais matemática do que sintaxe
-- relacionar pares chave valor com uso dos dicionários
-- montagem de funções e indexação dos dígitos dos valores aleatórios
+- que a geração de identificadores pode ser mais matemática do que sintaxe.
+- relacionar pares chave valor com uso dos dicionários.
+- montagem de funções e indexação dos dígitos dos valores aleatórios.
 
 ## como rodar
 
